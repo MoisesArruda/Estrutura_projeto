@@ -1,0 +1,7 @@
+{
+    "project_name": "Nome do projeto",
+    "version": "0.1", 
+    "author": "",
+    "description": "Descrição do seu projeto",
+    "project_env_file": ".env"
+}
