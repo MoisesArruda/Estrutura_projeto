@@ -1,7 +1,7 @@
 ## Clone este repositório
 
 ``` bash
-git clone https://github.com/MoisesArruda/estrutura_projeto
+git clone https://github.com/MoisesArruda/Estrutura_projeto
 ```
 
 ### Entre na pasta estrutura projeto
