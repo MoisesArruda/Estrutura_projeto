@@ -7,7 +7,7 @@ git clone https://github.com/MoisesArruda/estrutura_projeto
 ### Entre na pasta estrutura projeto
 
 ``` bash
-cd estrutura_projeto
+cd padrao_projeto
 ```
 
 ### Rode a pasta template com o cookiecuter
