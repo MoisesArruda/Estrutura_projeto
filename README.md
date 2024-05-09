@@ -1,19 +1,19 @@
 ## Clone este repositório
 
-%bash 
+``` bash
 git clone https://github.com/MoisesArruda/estrutura_projeto
-%
+```
 
 ### Entre na pasta estrutura projeto
 
-%bash
+``` bash
 cd estrutura_projeto
-%
+```
 
 ### Rode a pasta template com o cookiecuter
 
-%bash
+``` bash
 cookiecutter template
-%
+```
 
 
